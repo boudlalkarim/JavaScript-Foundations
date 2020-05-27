@@ -16,7 +16,7 @@ Create a variable called `monthlyInterestRate` and give it the value of interest
 Create another variable called `periods` and give it the value of years*12.
 */
 
-
+nothing done yet
 
 
 // 🏡 Task 2: Harder Math
